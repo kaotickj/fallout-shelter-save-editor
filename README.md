@@ -62,4 +62,4 @@ Contributions are welcome! If you'd like to add features or report bugs, please 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU/GPL3 License - see the [LICENSE](LICENSE) file for details.
