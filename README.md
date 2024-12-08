@@ -35,7 +35,7 @@ A browser-based save file editor for *Fallout Shelter*. This web app allows user
 - **Save File**: A compatible *Fallout Shelter* save file (Android, iOS, or PC).
   - Android: Save files can be extracted via ADB or from the device's storage.
   - iOS: Use iTunes or access files on a jailbroken device.
-  - PC: Located in `:Users/<username>/AppData/Fallout Shelter/files`.
+  - PC: Located in ':/Users/<username>/AppData/Fallout Shelter/files'.
 
 ## Usage
 
@@ -49,7 +49,7 @@ Navigate to the web app hosted on GitHub Pages:
 1. Click on the "Upload Save" button.
 2. Select the save file from your device:
    - **Android/iOS**: Extract the save file using the appropriate method (ADB for Android, iTunes for iOS).
-   - **PC**: Find your save file in `:Users/<username>/AppData/Fallout Shelter/files`.
+   - **PC**: Find your save file in ':/Users/<username>/AppData/Fallout Shelter/files'.
 
 ### Step 3: Edit Your Save File
 
@@ -69,7 +69,7 @@ After making changes:
 ### Step 5: Load the Edited Save File in Your Game
 
 - **Android/iOS**: Transfer the modified save file back to your device using the reverse method you used to extract it.
-- **PC**: Place the file back in `:Users/<username>/AppData/Fallout Shelter/files`.
+- **PC**: Place the file back in ':/Users/<username>/AppData/Fallout Shelter/files'.
 
 ## Limitations
 
