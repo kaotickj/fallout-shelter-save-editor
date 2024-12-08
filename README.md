@@ -65,6 +65,8 @@ Contributions are welcome! If you'd like to add features or report bugs, please 
 
 This project is licensed under the GNU/GPL3 License - see the [LICENSE](LICENSE) file for details.
 
+## Disclaimer and Justification 
+
 > ### Disclaimer on Cheating in Games
 
 > While the ability to modify or manipulate game data, such as through save file editors or cheats, can provide temporary advantages or fun diversions, it's important to acknowledge the negative impact such practices can have on the gaming experience. Cheating can diminish the sense of accomplishment and challenge that games are designed to provide. When players bypass challenges or use cheats to achieve success, it undermines the core of the game’s design - skill development, strategic thinking, and the reward of progress earned through effort.
