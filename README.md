@@ -12,6 +12,15 @@ A browser-based save file editor for *Fallout Shelter*. This web app allows user
 
 > In summary, cheating may offer a fleeting sense of accomplishment but ultimately harms the enjoyment and longevity of the gaming experience for both the individual and the broader community. We encourage players to embrace challenges and experience games as they were intended to be played.
 
+> ### Why did we write this if cheating is so bad?
+
+> Pay-to-play and pay-to-win game models have become increasingly prevalent, but they undermine the core principles of fair competition and player engagement. These models typically lock essential content, features, or advantages behind a paywall, allowing players who can afford to spend money to progress faster or access exclusive benefits. This creates an imbalance in the game, where players who cannot afford to spend money are at a disadvantage, often diminishing their enjoyment and sense of accomplishment.
+> 
+> The pay-to-win model especially fosters an environment where monetary investment, rather than skill or strategy, determines success. This leads to a situation where players who might be skilled or dedicated but lack financial resources are unfairly excluded from competitive play. Moreover, such practices can encourage players to focus more on microtransactions rather than meaningful gameplay, ultimately detracting from the long-term enjoyment and value of the game. In the worst cases, this results in a "pay-to-play" experience, where games no longer serve as a fair platform for all players but as profit-driven ventures that alienate the player base.
+> 
+> Many players and critics argue that these models exploit consumers, especially younger audiences, by encouraging them to spend money on in-game purchases that offer little long-term value or satisfaction. Games should focus on rewarding player skill, effort, and strategy rather than incentivizing financial expenditure. The rise of pay-to-win games can also contribute to a broader culture of monetization over player experience, leading to frustration and disengagement.
+ 
+
 ## Features
 
 - Modify vault resources (caps, food, water, power, etc.).
