@@ -2,25 +2,6 @@
 
 A browser-based save file editor for *Fallout Shelter*. This web app allows users to modify their game saves directly from the browser, with no downloads required. Hosted on GitHub Pages, it provides an easy way to edit vault data, dweller attributes, and more, all online.
 
-> ### Disclaimer on Cheating in Games
-
-> While the ability to modify or manipulate game data, such as through save file editors or cheats, can provide temporary advantages or fun diversions, it's important to acknowledge the negative impact such practices can have on the gaming experience. Cheating can diminish the sense of accomplishment and challenge that games are designed to provide. When players bypass challenges or use cheats to achieve success, it undermines the core of the game’s design - skill development, strategic thinking, and the reward of progress earned through effort.
-
-> Furthermore, cheating can lead to a disrupted multiplayer environment. When players use cheats in online games, it creates an uneven playing field, ruining the experience for others who are playing legitimately. This can lead to frustration, reduced enjoyment, and ultimately the loss of a healthy, competitive gaming community. It also encourages unethical behavior, which may be reflected in the broader online gaming culture.
-
-> It is recommended that players engage with games in the spirit in which they were designed, respecting the balance and integrity that make games enjoyable for all players. Using cheats or save editors in single-player contexts may be a personal choice, but it should be done with full awareness of the impact it may have on the overall gaming experience. When playing multiplayer games, however, cheating is strongly discouraged and may violate game terms of service, leading to penalties such as account bans.
-
-> In summary, cheating may offer a fleeting sense of accomplishment but ultimately harms the enjoyment and longevity of the gaming experience for both the individual and the broader community. We encourage players to embrace challenges and experience games as they were intended to be played.
-
-> ### Why did we write this if cheating is so bad?
-
-> Pay-to-play and pay-to-win game models have become increasingly prevalent, but they undermine the core principles of fair competition and player engagement. These models typically lock essential content, features, or advantages behind a paywall, allowing players who can afford to spend money to progress faster or access exclusive benefits. This creates an imbalance in the game, where players who cannot afford to spend money are at a disadvantage, often diminishing their enjoyment and sense of accomplishment.
-> 
-> The pay-to-win model especially fosters an environment where monetary investment, rather than skill or strategy, determines success. This leads to a situation where players who might be skilled or dedicated but lack financial resources are unfairly excluded from competitive play. Moreover, such practices can encourage players to focus more on microtransactions rather than meaningful gameplay, ultimately detracting from the long-term enjoyment and value of the game. In the worst cases, this results in a "pay-to-play" experience, where games no longer serve as a fair platform for all players but as profit-driven ventures that alienate the player base.
-> 
-> Many players and critics argue that these models exploit consumers, especially younger audiences, by encouraging them to spend money on in-game purchases that offer little long-term value or satisfaction. Games should focus on rewarding player skill, effort, and strategy rather than incentivizing financial expenditure. The rise of pay-to-win games can also contribute to a broader culture of monetization over player experience, leading to frustration and disengagement.
- 
-
 ## Features
 
 - Modify vault resources (caps, food, water, power, etc.).
@@ -83,3 +64,22 @@ Contributions are welcome! If you'd like to add features or report bugs, please 
 ## License
 
 This project is licensed under the GNU/GPL3 License - see the [LICENSE](LICENSE) file for details.
+
+> ### Disclaimer on Cheating in Games
+
+> While the ability to modify or manipulate game data, such as through save file editors or cheats, can provide temporary advantages or fun diversions, it's important to acknowledge the negative impact such practices can have on the gaming experience. Cheating can diminish the sense of accomplishment and challenge that games are designed to provide. When players bypass challenges or use cheats to achieve success, it undermines the core of the game’s design - skill development, strategic thinking, and the reward of progress earned through effort.
+
+> Furthermore, cheating can lead to a disrupted multiplayer environment. When players use cheats in online games, it creates an uneven playing field, ruining the experience for others who are playing legitimately. This can lead to frustration, reduced enjoyment, and ultimately the loss of a healthy, competitive gaming community. It also encourages unethical behavior, which may be reflected in the broader online gaming culture.
+
+> It is recommended that players engage with games in the spirit in which they were designed, respecting the balance and integrity that make games enjoyable for all players. Using cheats or save editors in single-player contexts may be a personal choice, but it should be done with full awareness of the impact it may have on the overall gaming experience. When playing multiplayer games, however, cheating is strongly discouraged and may violate game terms of service, leading to penalties such as account bans.
+
+> In summary, cheating may offer a fleeting sense of accomplishment but ultimately harms the enjoyment and longevity of the gaming experience for both the individual and the broader community. We encourage players to embrace challenges and experience games as they were intended to be played.
+
+> ### Why did we write this if cheating is so bad?
+
+> Pay-to-play and pay-to-win game models have become increasingly prevalent, but they undermine the core principles of fair competition and player engagement. These models typically lock essential content, features, or advantages behind a paywall, allowing players who can afford to spend money to progress faster or access exclusive benefits. This creates an imbalance in the game, where players who cannot afford to spend money are at a disadvantage, often diminishing their enjoyment and sense of accomplishment.
+> 
+> The pay-to-win model especially fosters an environment where monetary investment, rather than skill or strategy, determines success. This leads to a situation where players who might be skilled or dedicated but lack financial resources are unfairly excluded from competitive play. Moreover, such practices can encourage players to focus more on microtransactions rather than meaningful gameplay, ultimately detracting from the long-term enjoyment and value of the game. In the worst cases, this results in a "pay-to-play" experience, where games no longer serve as a fair platform for all players but as profit-driven ventures that alienate the player base.
+> 
+> Many players and critics argue that these models exploit consumers, especially younger audiences, by encouraging them to spend money on in-game purchases that offer little long-term value or satisfaction. Games should focus on rewarding player skill, effort, and strategy rather than incentivizing financial expenditure. The rise of pay-to-win games can also contribute to a broader culture of monetization over player experience, leading to frustration and disengagement.
+ 
