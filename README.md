@@ -2,6 +2,16 @@
 
 A browser-based save file editor for *Fallout Shelter*. This web app allows users to modify their game saves directly from the browser, with no downloads required. Hosted on GitHub Pages, it provides an easy way to edit vault data, dweller attributes, and more, all online.
 
+> ### Disclaimer on Cheating in Games
+
+> While the ability to modify or manipulate game data, such as through save file editors or cheats, can provide temporary advantages or fun diversions, it's important to acknowledge the negative impact such practices can have on the gaming experience. Cheating can diminish the sense of accomplishment and challenge that games are designed to provide. When players bypass challenges or use cheats to achieve success, it undermines the core of the game’s design - skill development, strategic thinking, and the reward of progress earned through effort.
+
+> Furthermore, cheating can lead to a disrupted multiplayer environment. When players use cheats in online games, it creates an uneven playing field, ruining the experience for others who are playing legitimately. This can lead to frustration, reduced enjoyment, and ultimately the loss of a healthy, competitive gaming community. It also encourages unethical behavior, which may be reflected in the broader online gaming culture.
+
+> It is recommended that players engage with games in the spirit in which they were designed, respecting the balance and integrity that make games enjoyable for all players. Using cheats or save editors in single-player contexts may be a personal choice, but it should be done with full awareness of the impact it may have on the overall gaming experience. When playing multiplayer games, however, cheating is strongly discouraged and may violate game terms of service, leading to penalties such as account bans.
+
+> In summary, cheating may offer a fleeting sense of accomplishment but ultimately harms the enjoyment and longevity of the gaming experience for both the individual and the broader community. We encourage players to embrace challenges and experience games as they were intended to be played.
+
 ## Features
 
 - Modify vault resources (caps, food, water, power, etc.).
@@ -36,6 +46,7 @@ Navigate to the web app hosted on GitHub Pages:
 
 Once the save file is loaded into the app:
 - **Vault Resources**: Adjust the amount of caps, food, water, and power.
+- **Booster Packs**: Adjust the number of Lunchboxes, Pet Carriers, Starter Packs, NukaCOla Quantums and Mr. Handies.
 - **Dwellers**: Modify dweller stats such as health, happiness, and strength.
 - **Rooms**: Change or unlock various room types, or adjust room capacities.
 - **Items**: Unlock items and outfits for your dwellers.
