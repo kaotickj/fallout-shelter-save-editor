@@ -184,7 +184,6 @@
 
           <div class="form-group row">
             <div class="col-sm-4">
-              <label>Save app Version:</label><label ng-bind="save.appVersion"></label>
             </div>
           </div>
 
@@ -344,9 +343,9 @@
             </div>
     
             <div class="col-sm-4">
-              <label>Is Death?</label>
+              <label>Is Dead?</label>
               <select class="form-control" name="death" ng-model="other.death"
-                ng-options="o.v as o.n for o in [{ n: 'Not Death', v: false }, { n: 'Death', v: true }]"></select>
+                ng-options="o.v as o.n for o in [{ n: 'Not Dead', v: false }, { n: 'Dead', v: true }]"></select>
             </div>
           </div>
         </form>
